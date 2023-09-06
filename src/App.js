@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
-import car from './componentes/car';
+import Car from './componentes';
+
 
 function App() {
   return (
