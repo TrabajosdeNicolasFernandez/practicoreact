@@ -17,7 +17,7 @@ function App() {
     <li>Mejorar la tecnología del espectro</li>
   </ul>
 
-  <car />
+  <Car />
 </>
 
   );

@@ -1,6 +1,6 @@
-function car() {
+function Car() {
     return <h2>YO SOY UN AUTO</h2> 
 
 }
 
-export default car; 
+export default Car; 
