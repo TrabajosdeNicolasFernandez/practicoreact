@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import car from './componentes/car';
 
 function App() {
   return (
@@ -15,6 +16,8 @@ function App() {
     <li>Ensayar la escena de la película</li>
     <li>Mejorar la tecnología del espectro</li>
   </ul>
+
+  <car />
 </>
 
   );
